@@ -1,6 +1,6 @@
 ## My Personal Website
 
-<div align="center"><img src="rohlfs.jpg" width="200" height="200" alt="profile picture" /></div>
+<div align="center"><img src="rohlfs.jpg" width="500" height="630" alt="profile picture" /></div>
 
 You can use the [editor on GitHub](https://github.com/christianlimsui/christianlimsui.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
