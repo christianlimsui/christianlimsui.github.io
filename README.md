@@ -1,3 +1,5 @@
+<body style="background-color:FEF8E8;">
+  
 ## My Personal Website
 
 <div align="center"><img src="rohlfs.jpg" width="500" height="630" alt="profile picture" /></div>
