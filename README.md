@@ -2,9 +2,7 @@
 
 <div align="center"><img src="rohlfs.jpg" width="500" height="630" alt="profile picture" /></div>
 
-You can use the [editor on GitHub](https://github.com/christianlimsui/christianlimsui.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'll add things here if I'm not lazy in the future :P
 
 ### Markdown
 
